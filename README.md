@@ -1,8 +1,3 @@
-# Conda Packaging Template
+# Packaging for django-admin-multi-select-filter
 
-This template repository contains a default setup for building new conda packages via agithub action.
-
-## Contents
-
-1. A github action to build conda packages and upload them for MacOS-X, Linux, Windows 74bit pythons v 3/6-3.9
-2. A build environment
+Django admin multi-select filter is a Django app that allows you to add a multi-select filter to the Django admin. See https://github.com/JobDoesburg/django-admin-multi-select-filter - this is just the conda pacaging!
